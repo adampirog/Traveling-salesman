@@ -1,0 +1,2 @@
+Project on different algorithms for solving Traveling Salesman Problem. Exact algorithms: Brute Force, Dynamic Programming, Branch and Bound.
+Metaheuristics: Simulated annealing, Tabu search. AI approach: Evolutionary algorithm - memetic (genetic algorithm and local search hybrid).
