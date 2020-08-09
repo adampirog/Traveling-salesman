@@ -16,6 +16,6 @@ In the theory of computational complexity, the decision version of the TSP (wher
 * Tabu search
 
 **AI approach**
-* Memetic - evolutionary algorithm. (Local search and genetic hybrid)
+* Genetic evolutionary algorithm boosted with local search (memetic)
 
 [Source](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
